@@ -64,7 +64,7 @@ with open(file_to_load) as election_data:
   reader = csv.reader(election_data)
 ```
 
- What the code does is loop over the data source and collect information and process it.  The code sample below collects unique Candidate and County names and tallies how many votes for each unique Candidate and County.  This could be modified the collect in additional information if the data is contained within the data source.
+ What the code does is loop over the data source and collect information and process it.  The code sample below collects unique Candidate and County names and tallies how many votes for each unique Candidate and County.  This code could be modified to collect additional information as long as the data is contained within the data source.
 
 ```python
     for row in reader:
