@@ -23,18 +23,18 @@ This is an election audit for a congressional election performed for the Colorad
 
 #### Election Results
 
-#####Total Votes: 369,711
+##### Total Votes: 369,711
 
 -------------------------
 
-#####Percentage and Count of Votes by County:
+##### Percentage and Count of Votes by County:
 Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 
 -------------------------
 
-#####Largest County Turnout:
+##### Largest County Turnout:
 
 Denver
 
